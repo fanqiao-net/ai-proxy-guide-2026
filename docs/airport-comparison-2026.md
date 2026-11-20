@@ -32,7 +32,7 @@
 
 在购买任何机场的季付或年付前，务必用低价试用（如 ¥1 试用或单月付）逐项实测：
 
-1. **有公开透明的第三方/国内探针监控**：例如 [fanqiao.net/status](https://fanqiao.net/status) 每 5 分钟更新的广州探针近 7 天 / 30 天可用率（不隐藏故障）；
+1. **有公开透明的 5 分钟节点健康监控**：例如 [fanqiao.net/status](https://fanqiao.net/status) 每 5 分钟更新的全网节点近 7 天 / 30 天可用率（不隐藏故障）；
 2. **明确写出协议栈**：优先 VLESS + XTLS-Vision + REALITY（或原生 AnyTLS），避免无伪装明文协议；
 3. **晚高峰（20:00–23:30）本地宽带实测**：电信 / 联通 / 移动跨省路由差异极大，别人快不代表你快；
 4. **终端跑一次 [`ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)**：验证 Claude / ChatGPT / Gemini / Netflix / 动画疯是否真实解锁且未串台到香港；
