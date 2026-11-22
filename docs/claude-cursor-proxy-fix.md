@@ -31,8 +31,11 @@ curl -fsSL https://raw.githubusercontent.com/fanqiao-net/ai-ip-check/main/check.
 
 当输出同时显示 `Claude Web ✓`、`Claude Code API ✓`、`ChatGPT ✓`、`Gemini API ✓`、`Cursor ✓`，且默认出口不再是 `[CN]` 或 `[HK]`，即说明终端环境与分流规则均已就绪。
 
-## 四、延伸教程
+## 四、延伸教程（官网共 56 篇完整图文）
 
+- [ChatGPT Plus 与 Claude Pro 国内美区 Apple ID 礼品卡安全订阅防封号](https://fanqiao.net/guide/chatgpt-plus-claude-pro-subscribe)
+- [Google AI Studio / NotebookLM / Antigravity 地区不支持（Available Regions）修复](https://fanqiao.net/guide/google-ai-studio-notebooklm-fix)
+- [公司内网 / 校园网与 Clash Verge Rev 共存分流指南（OA 内网不断网）](https://fanqiao.net/guide/corporate-campus-lan-split-routing)
 - [AI 常见英文报错代码速查修复表（官网完整版）](https://fanqiao.net/guide/ai-error-codes-fix)
 - [Cursor / Windsurf HTTP/2 断流修复教程](https://fanqiao.net/guide/cursor-windsurf-http2-fix)
 - [AI 编程与终端 TUN 模式配置指南](https://fanqiao.net/guide/ai-coding)

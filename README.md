@@ -55,9 +55,9 @@ curl -fsSL https://raw.githubusercontent.com/fanqiao-net/ai-ip-check/main/check.
 | 专题文档 | 覆盖核心问题 | 在线同步版（`fanqiao.net`） |
 |---|---|---|
 | [`docs/airport-comparison-2026.md`](docs/airport-comparison-2026.md) | 20+ 主流机场与 VPN 详细横评、倍率账单实算、防跑路 7 项验收清单 | [2026 主流机场对比总表](https://fanqiao.net/compare) |
-| [`docs/claude-cursor-proxy-fix.md`](docs/claude-cursor-proxy-fix.md) | Claude Code / Cursor / Codex / Gemini 报错代码修复与客户端 AI 分流配置 | [AI 报错速查表](https://fanqiao.net/guide/ai-error-codes-fix) · [AI 编程配置](https://fanqiao.net/guide/ai-coding) |
+| [`docs/claude-cursor-proxy-fix.md`](docs/claude-cursor-proxy-fix.md) | Claude Code / Cursor / Codex / Gemini / AI Studio 报错修复与 Plus/Pro 防封号订阅 | [AI 报错速查表](https://fanqiao.net/guide/ai-error-codes-fix) · [Plus/Pro 安全订阅](https://fanqiao.net/guide/chatgpt-plus-claude-pro-subscribe) |
 | [`docs/payg-traffic-pack-guide.md`](docs/payg-traffic-pack-guide.md) | 魔戒 / 八戒 / 永久不限时流量包怎么选？直连 SS 与 VLESS REALITY 专线差异 | [按量付费不限时指南](https://fanqiao.net/guide/mojie-payg-alternatives) |
-| [`docs/emby-4k-streaming-guide.md`](docs/emby-4k-streaming-guide.md) | 送 Emby 的机场推荐与 4K 避坑：1x 倍率、Infuse / VidHub / Apple TV 实操 | [送 Emby 机场横评](https://fanqiao.net/guide/emby-airport-comparison-2026) · [帆桥影院](https://fanqiao.net/cinema) |
+| [`docs/emby-4k-streaming-guide.md`](docs/emby-4k-streaming-guide.md) | 送 Emby 的机场推荐与 4K 避坑：1x 倍率、Infuse / Apple TV / YouTube Premium 防送中 | [送 Emby 机场横评](https://fanqiao.net/guide/emby-airport-comparison-2026) · [帆桥影院](https://fanqiao.net/cinema) |
 
 ---
 
