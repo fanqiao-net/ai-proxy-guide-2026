@@ -48,5 +48,5 @@
 - [魔戒 MoJie / 八戒 / 91 机场按量付费平替对比](https://fanqiao.net/guide/mojie-payg-alternatives)
 - [快连 VPN（LetsVPN）与搬瓦工 JustMySocks 替代方案](https://fanqiao.net/guide/letsvpn-justmysocks-alternatives)
 - [ExpressVPN / NordVPN / Surfshark / Astrill 国内替代方案](https://fanqiao.net/guide/expressvpn-nordvpn-surfshark-astrill-china)
-- [免费 Clash 节点 / 公益机场 / 老王旋风风险与 ¥1 试用替代](https://fanqiao.net/guide/free-clash-nodes-vs-1yuan-trial)
+- [免费 Clash 节点池与公益代理安全风险及 ¥1 试用替代](https://fanqiao.net/guide/free-clash-nodes-vs-1yuan-trial)
 - [送 Emby 影视库的机场 2026 横向对比](https://fanqiao.net/guide/emby-airport-comparison-2026)
