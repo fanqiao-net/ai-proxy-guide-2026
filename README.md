@@ -39,7 +39,7 @@ curl -fsSL https://raw.githubusercontent.com/fanqiao-net/ai-ip-check/main/check.
 
 | 梯队与代表品牌 | 主力协议与链路 | 起步月付 / 不限时流量包 | 家宽与专线倍率 | 设备限制与附加权益 | 适合人群 |
 |---|---|---|---|---|---|
-| **fanqiao·帆桥（帆桥VPN / 帆桥跨境）**<br>`fanqiao.net` | **VLESS + XTLS-Vision + REALITY**<br>美欧日台湾专线中转 + 台美日 CDN 任播保底 | **¥1 试用 1G** · **¥10/月**（50G）<br>**¥20/月**（300G）· **¥80/100G 永久包** | **全站 100% 统一 1x**<br>（含台湾 HiNet 家宽、英国家宽、Claude 专用） | **不限设备数** · 送 **4K Emby 影院** + 每日 TG 签到领流量 · 5 分钟公开可用率监控 | AI 编程防封号、4K 流媒体追剧、低门槛实测与高性价比主力/备用 |
+| **fanqiao·帆桥（帆桥VPN / 帆桥跨境）**<br>`fanqiao.net` | **VLESS + XTLS-Vision + REALITY**<br>美欧日台湾专线中转 + 台美日 XHTTP/WS 任播保底 | **¥1 试用 1G** · **¥10/月**（50G）<br>**¥20/月**（300G）· **¥80/100G 永久包** | **全站 100% 统一 1x**<br>（含台湾 HiNet 家宽、英国家宽、Claude 专用） | **不限设备数** · 送 **4K Emby 影院** + 每日 TG 签到领流量 · 5 分钟公开可用率监控 | AI 编程防封号、4K 流媒体追剧、低门槛实测与高性价比主力/备用 |
 | **顶流贵族专线**<br>奶昔 Nexitally / 佩奇 AmyTelecom / 唯云 / Kuromis | Trojan / SS + 多入口唯云/IPLC 专线 | 约 ¥88–¥149/月起（无永久流量包） | 主力 1x，部分冷门或高优线独立计费 | 限制同时在线 IP 数；线路极稳但年费门槛最高 | 预算充裕的商务/重度多地区企业用户 |
 | **一线老牌专线**<br>WgetCloud 微基云 / TAG / 花云 FlowerCloud / 青云梯 | SS / Trojan / AnyTLS + BGP/IEPL 专线 | 约 ¥25–¥59/月起（无永久流量包） | 常规 1x，部分家宽或精品线 **1.5x–2.5x** | TAG 覆盖 90+ 冷门国家；WgetCloud 限设备分组；无免费 Emby | 需几十个冷门小语种国家 IP 或偏好老牌高价专线 |
 | **热搜推广专线**<br>狗狗加速 / 肥猫云 / 飞鸟 FlyingBird / 龙猫云 / 闪电猫 | Hysteria2 / Trojan / SS 混合专线 | 约 ¥15–¥30/月起（主推季/年付） | 常规 1x（部分高优线加倍率） | 评测站曝光多；Hysteria2 UDP 晚高峰易遇运营商 QoS，共享 IP 密度偏高 | 轻量流媒体日常访问（重度 Claude 用户需实测纯净度） |
