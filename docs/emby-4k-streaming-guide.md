@@ -1,6 +1,6 @@
 # 2026 送 Emby 影视库的机场选购与 4K 观影避坑指南
 
-> 完整对比页见 [fanqiao.net/guide/emby-airport-comparison-2026](https://fanqiao.net/guide/emby-airport-comparison-2026) ｜ 播放器配置教程见 [fanqiao.net/guide/emby-player](https://fanqiao.net/guide/emby-player)。
+> 完整对比页见 [fanqiao.net/guide/emby-airport-comparison-2026](https://fanqiao.net/guide/emby-airport-comparison-2026) ｜ 播放器配置教程见 [fanqiao.net/guide/emby-player](https://fanqiao.net/guide/emby-player) ｜ 客厅大屏调优见 [Apple TV 4K + Infuse 8 零缓冲杜比视界教程](https://fanqiao.net/guide/apple-tv-infuse-4k-emby)。
 
 ## 一、挑「买机场送 Emby」最容易踩的 4 个坑
 
