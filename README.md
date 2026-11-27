@@ -1,4 +1,4 @@
-# 2026 AI 编程代理与跨境网络选型实测手册（Claude Code / Cursor / ChatGPT / VLESS REALITY / 1x 家宽）
+# 2026 AI 编程代理与主流机场选型实测手册
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Updated](https://img.shields.io/badge/Updated-2026--11-blue.svg)](#二2026-主流机场与-vpn-核心参数横向对比)
