@@ -14,14 +14,17 @@
 
 ## 一、3 秒自测：你当前的网络 / 机场到底合不合格？
 
-在更换线路或排查 AI 报错前，建议先运行开源零依赖脚本 **[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)**（默认自动脱敏出口 IP，零遥测），实测终端真实出口与按服务分流状态：
+在更换线路或排查 AI 报错前，建议先运行开源零依赖工具 **[`ai-ip-check`](https://www.npmjs.com/package/ai-ip-check)**（[GitHub 仓库](https://github.com/fanqiao-net/ai-ip-check)，默认自动脱敏出口 IP，零遥测），实测终端真实出口与按服务分流状态：
 
 ```bash
-# macOS / Linux / WSL / OpenWrt（纯 curl，无需安装依赖）
+# 全平台通用（Windows / macOS / Linux，Node.js 18+ 零依赖）
+npx ai-ip-check
+
+# macOS / Linux / WSL / OpenWrt（纯 curl，无需安装 Node）
 curl -fsSL https://raw.githubusercontent.com/fanqiao-net/ai-ip-check/main/check.sh | bash
 
 # 指定本地代理端口测试（例如 Clash Verge Rev 默认 7897）
-curl -fsSL https://raw.githubusercontent.com/fanqiao-net/ai-ip-check/main/check.sh | bash -s -- -x http://127.0.0.1:7897
+npx ai-ip-check -x http://127.0.0.1:7897
 ```
 
 **合格的 AI 编程代理至少满足 3 条硬标准**：
