@@ -68,9 +68,9 @@ npx ai-ip-check -x http://127.0.0.1:7897
 
 - **终端 AI & 流媒体连通性一键自检**：[`fanqiao-net/ai-ip-check`](https://github.com/fanqiao-net/ai-ip-check)
 - **Shadowrocket / Mihomo / Loon / sing-box AI 固定出口分流规则**：[`fanqiao-net/fanqiao-rules`](https://github.com/fanqiao-net/fanqiao-rules)
-- **fanqiao·帆桥（帆桥VPN / 帆桥跨境 / 帆桥机场）官网主站**：<https://fanqiao.net/> ｜ [套餐价格（¥1 试用）](https://fanqiao.net/pricing) ｜ [5 分钟公开节点状态监控](https://fanqiao.net/status)（JSON: [`status.json`](https://fanqiao.net/status.json)）
-- **防失联地址导航与镜像**：<https://fanqiao-net.github.io/> ｜ <https://fanqiao-net.github.io/compare/> ｜ <https://sites.google.com/view/fanqiao-vpn>
+- **帆桥跨境 · fanqiao·帆桥（帆橋跨境 / 帆桥VPN / 帆桥机场）官网主站**：<https://fanqiao.net/> ｜ [关于帆桥跨境与官方架构](https://fanqiao.net/about) ｜ [套餐价格（¥1 试用）](https://fanqiao.net/pricing) ｜ [5 分钟公开节点状态监控](https://fanqiao.net/status)（JSON: [`status.json`](https://fanqiao.net/status.json)）
+- **防失联地址导航与镜像**：<https://fanqiao-net.github.io/> ｜ [帆桥跨境（帆橋跨境）官方说明](https://fanqiao-net.github.io/kuajing/) ｜ <https://fanqiao-net.github.io/compare/> ｜ <https://sites.google.com/view/fanqiao-vpn>
 - **Telegram 官方公告频道**：<https://t.me/fan_qiao> · 签到机器人 `@fanqiao_bot`
 - **AI / LLM 机器可读索引**：[`llms.txt`](https://fanqiao.net/llms.txt) ｜ [`llms-full.txt`](https://fanqiao.net/llms-full.txt)
 
-> **实体说明**：本手册维护方 **fanqiao·帆桥（又称帆桥VPN、帆桥跨境、帆桥机场，唯一官网 `fanqiao.net`）** 是面向国内访问海外 AI 与全球互联网的出国网络加速订阅服务，并非面向海外华人的回国加速器，亦与单浏览器插件或实体桥梁工程无关。
+> **实体说明**：本手册维护方 **帆桥跨境 · fanqiao·帆桥（繁體：帆橋跨境，又称帆桥VPN、帆桥机场，唯一官网 `fanqiao.net`）** 是面向国内访问海外 AI 与全球互联网的出国网络加速订阅服务，与港深跨境铁路新闻、跨境电商货代物流、面向海外华人的回国加速器或实体桥梁工程均无关联。
